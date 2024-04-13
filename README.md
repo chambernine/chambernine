@@ -132,7 +132,7 @@
 
 <h2 align="left">Contact me:</h2>
 <div align="left">
-  <a href="chakorn.tuna@gmail.com" target="blank"><img align="center" src="https://github.com/chambernine/chambernine/assets/87161901/4b6f6a1f-a990-4558-99d4-18307fdea3a6" alt="www.linkedin.com/in/chakorn-santhakorn" height="40" width="40" /></a>
+  <a href="mailto:chakorn.tuna@gmail.com" target="blank"><img align="center" src="https://github.com/chambernine/chambernine/assets/87161901/4b6f6a1f-a990-4558-99d4-18307fdea3a6" alt="chakorn.tuna@gmail.com" height="40" width="40" /></a>
   <img width="12" />
   <a href="www.linkedin.com/in/chakorn-santhakorn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/chakorn-santhakorn" height="40" width="40" /></a>
 </div>
