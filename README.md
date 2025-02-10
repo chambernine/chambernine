@@ -1,9 +1,13 @@
 # 👋 Hi, I'm Chambernine!
 
-👩🏻‍💻 Software developer sharing about my journey and learnings in tech<br/>
-🎓 Bachelor's degree in Engineering from King Mongkut's Institute of Technology Ladkrabang (KMITL), Thailand<br/>
-🌱 Currently learning front-end and back-end technologies to become a full-stack developer.<br/>
-🔭 Actively seeking opportunities to contribute to exciting projects.<br/>
+## About Me
+
+I'm a passionate front-end developer with a keen interest in open-source projects and collaborative development. I enjoy exploring new technologies and constantly strive to improve my skills.
+
+- 🔭 I’m currently working on various front-end projects.
+- 🌱 I’m currently learning advanced topics in modern JavaScript frameworks.
+- 👯 I’m looking to collaborate on interesting and impactful front-end projects.
+- 💬 Ask me about anything related to web development, UI/UX design, and JavaScript.
 
 
 <div>
@@ -11,6 +15,11 @@
   <img width="12" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chambernine&layout=donut&theme=ambient_gradient&hide_border=false&border_radius=9" height="195"/>
 </div>
+
+## Contributions
+
+![chambernine's GitHub contributions](https://github-readme-streak-stats.herokuapp.com/?user=chambernine&theme=radical)
+
 
 
 <h2 align="left">Programming Languages</h2>
