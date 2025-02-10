@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate front-end developer with a keen interest in open-source projects and collaborative development. I enjoy exploring new technologies and constantly strive to improve my skills.
+I'm Chakorn Santhakorn, a passionate front-end developer with a keen interest in open-source projects and collaborative development. I enjoy exploring new technologies and constantly strive to improve my skills.
 
 - 🔭 I’m currently working on various front-end projects.
 - 🌱 I’m currently learning advanced topics in modern JavaScript frameworks.
