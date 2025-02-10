@@ -86,13 +86,13 @@ I'm a passionate front-end developer with a keen interest in open-source project
 
 <h2 align="left">Package Managements</h2>
 
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bun/bun-original.svg" height="40" alt="bun logo"  />
 </div>
-
 
 <h2 align="left">Design Tools</h2>
 
